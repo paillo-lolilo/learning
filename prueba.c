@@ -34,7 +34,7 @@ main()
 
   if (0)
     printf("aquui\n");
-  else if (1)
+  else if (0)
     printf("aqui tambien \n");
   else
     print("nunca\n");
