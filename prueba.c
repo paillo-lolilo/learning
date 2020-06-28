@@ -32,6 +32,7 @@ main()
   printf("variable b is at address: %p\n", (void*)b);
 
 
+//este comentario lo agrego local como rorisimo
   if (0)
     printf("aquui\n");
   else if (0)
